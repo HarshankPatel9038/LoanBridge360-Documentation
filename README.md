@@ -156,4 +156,4 @@ A: LoanBridge360 is optimized for **desktop**. Try opening [loanbridge360.vercel
 
 ---
 
-Made with 💙 by **[Harshank Patel](www.linkedin.com/in/patel-harshank)**.
+Made with 💙 by **[Harshank Patel](https://www.linkedin.com/in/patel-harshank)**.
