@@ -121,7 +121,7 @@ Instead of both people keeping separate notes (which never match!), you can conn
 
 ---
 
-## ⚠️ Important Things to Know
+## 🚨 Important Things to Know
 
 - **🖥️ Use the Desktop version for the best experience.** The site works on phones, but is built and tested primarily for desktop browsers — for full functionality and the best look, use a laptop or computer.
 
