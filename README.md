@@ -22,6 +22,14 @@
 
 ## 🚀 Getting Started
 
+You can sign in either with **Google** or with **Email/Password**.
+
+**Option A — Sign in with Google (fastest):**
+1. Go to **[https://loanbridge360.vercel.app/](https://loanbridge360.vercel.app/)**
+2. Click **Sign in with Google** and pick your Google account.
+3. You're in — your name and profile photo are pulled automatically from your Google account.
+
+**Option B — Email/Password:**
 1. Go to **[https://loanbridge360.vercel.app/](https://loanbridge360.vercel.app/)**
 2. Click **Sign up**, enter a **real email address** and a password.
 3. Check your email inbox and click the **confirmation link**.
@@ -71,7 +79,8 @@ Instead of both people keeping separate notes (which never match!), you can conn
 - Exchange rates update automatically — this only changes how numbers are *displayed*, your actual saved data stays consistent.
 
 ### 👤 6. Your Profile & Account
-- Update your **name** and **profile photo**.
+- **Signed in with Google?** Your name and profile photo are shown in Settings exactly as they appear on your Google account, and update automatically if you change them on Google. They can't be edited manually inside LoanBridge360.
+- **Signed in with Email/Password?** Your profile shows your email as your display name.
 - **Forgot your password?** Use the reset-password link on the sign-in screen — a reset email will be sent to you.
 - **Delete your account** anytime from Settings — it's not deleted instantly. You get a **30-day grace period**, and if you log back in during that time, the deletion is automatically cancelled.
 
@@ -110,8 +119,8 @@ Instead of both people keeping separate notes (which never match!), you can conn
 
 ### ⚙️ Changing Settings
 - **Currency / Theme**: available from the sidebar or settings menu.
-- **Name / Photo**: Settings → edit profile.
-- **Password**: Sign-in screen → "Forgot password?" or from Settings.
+- **Name / Photo**: shown in Settings, synced automatically from your Google account — no manual edit option.
+- **Password**: Sign-in screen → "Forgot password?" or from Settings. (Not applicable if you signed in with Google only.)
 
 ### 🗑️ Deleting Your Account
 1. Settings → **Delete Account**.
@@ -125,7 +134,7 @@ Instead of both people keeping separate notes (which never match!), you can conn
 
 - **🖥️ Use the Desktop version for the best experience.** The site works on phones, but is built and tested primarily for desktop browsers — for full functionality and the best look, use a laptop or computer.
 
-- **📧 Use a real, valid email — don't try fake/temporary emails.**
+- **📧 Use a real, valid email — don't try fake/temporary emails.** (Only applies to Email/Password sign-up — Google Sign-In always uses your real Google account.)
   - Sign-up only accepts genuine email providers (Gmail, Yahoo, Outlook, iCloud, etc.).
   - If you try to sign up with a **fake, invalid, or disposable/temporary email**, you will be **blocked** and shown a message like:
     > "Temporary or disposable email addresses are not allowed. Please use a real email address."
@@ -140,10 +149,13 @@ Instead of both people keeping separate notes (which never match!), you can conn
 ## ❓ FAQ / Troubleshooting
 
 **Q: I signed up but didn't get a confirmation email.**
-A: Check your spam/junk folder. Make sure you used a real, supported email provider.
+A: Check your spam/junk folder. Make sure you used a real, supported email provider. (Not applicable if you use Google Sign-In.)
 
 **Q: It says my email isn't allowed / I'm blocked from signing up.**
-A: You used a temporary/disposable or unsupported email domain. Use a real Gmail/Yahoo/Outlook/iCloud etc. address. If you're still blocked, wait a while and try again with a valid email.
+A: You used a temporary/disposable or unsupported email domain. Use a real Gmail/Yahoo/Outlook/iCloud etc. address, or sign in with Google instead. If you're still blocked, wait a while and try again with a valid email.
+
+**Q: Can I change my name or profile photo?**
+A: Not inside the app. Your name/photo come directly from your Google account — update them on Google and they'll refresh here automatically the next time you sign in.
 
 **Q: Why is my payment still showing "Pending"?**
 A: It needs to be **verified by the other connected person** on that shared loan. Ask them to open the loan and verify it.
